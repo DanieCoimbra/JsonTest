@@ -1,8 +1,8 @@
 {
   "Personagem":[
-    {"id": 1,"classe": " Mago "},
-    {"id": 2,"classe": " Dragão"},
-    {"id": 3,"classe": " Lutador"}
+    {"postId": 1,"id": 1,"classe": " Mago "},
+    {"postId": 2,"id": 2,"classe": " Dragão"},
+    {"postId": 3,"id": 3,"classe": " Lutador"}
 ],
   "Comentario":[
     {"id": 1,"Habilidade Inicial": " Magia de fogo ","Habilidade Avançada": " Magia Temporal "},
