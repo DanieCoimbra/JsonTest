@@ -1,13 +1,13 @@
 {
   "Personagem":[
-    ("id": 1, "classe": " Mago "),
-    ("id": 2,"classe": " Dragão"),
-    ("id": 3,"classe": " Lutador")
+    {"id": 1,"classe": " Mago "},
+    {"id": 2,"classe": " Dragão"},
+    {"id": 3,"classe": " Lutador"}
 ],
   "Comentario":[
-    ("id": 1, "Habilidade Inicial": " Magia de fogo ", "Habilidade Avançada": " Magia Temporal "),
-    ("id": 2,"Habilidade Inicial": " Ataque com Garras ", "Habilidade Avançada": " Sopro de Fogo "),
-    ("id": 3,"Habilidade Inicial": " Tecnica Basica ", "Habilidade Avançada": " Controle Corporal Avançado ")
+    {"id": 1,"Habilidade Inicial": " Magia de fogo ","Habilidade Avançada": " Magia Temporal "},
+    {"id": 2,"Habilidade Inicial": " Ataque com Garras ","Habilidade Avançada": " Sopro de Fogo "},
+    {"id": 3,"Habilidade Inicial": " Tecnica Basica ", "Habilidade Avançada": " Controle Corporal Avançado "}
   ]
 }
   
