@@ -1,0 +1,17 @@
+{
+  "Personagem":[
+    {"id": 1,"classe": " Mago ", "arma": " Cajado "},
+    {"id": 2,"classe": " Dragão", "arma": " Garras "},
+    {"id": 3,"classe": " Lutador", "arma": " Punhos "},
+    {"id": 4,"classe": " Guerreiro", "arma": " Espada "}
+],
+  "Comentario":[
+    {"id": 1,"Habilidade Inicial": " Magia de fogo ","Habilidade Avançada": " Magia Temporal "},
+    {"id": 2,"Habilidade Inicial": " Ataque com Garras ","Habilidade Avançada": " Sopro de Fogo "},
+    {"id": 3,"Habilidade Inicial": " Tecnica Basica ", "Habilidade Avançada": " Controle Corporal Avançado "},
+    {"id": 4,"Habilidade Inicial": " Combate de uma Mão ", "Habilidade Avançada": " Furia Insana "}
+  ]
+}
+  
+
+  
